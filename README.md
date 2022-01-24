@@ -1,2 +1,2 @@
 # hello-world
-This is my first Repository.
+print("This is my first Repository")
